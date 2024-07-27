@@ -12,5 +12,5 @@
     function numberToString(num) {
         return num.toString();
     }
-
+console.log('solution: ' + numberToString(-100))
 
